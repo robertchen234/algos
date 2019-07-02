@@ -1,3 +1,5 @@
+// https://app.codesignal.com/arcade/intro/level-2/yuGuHvcCaFCKk56rJ
+
 // n=1 => 1  // square plus 0
 // n=2 => 5  // square plus 1
 // n=3 => 13 // square plus 4
